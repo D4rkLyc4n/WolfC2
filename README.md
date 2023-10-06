@@ -12,6 +12,7 @@
 
 ## need to change
 >it only design for localnetwork but if you want to use in overlan try with port forwarding
+>i can't push public so if you want to use dm to my telegram channel 
 
 ## support
 >you can buy me a coffee
